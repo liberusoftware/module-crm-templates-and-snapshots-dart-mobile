@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-templates-and-snapshots-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-templates-and-snapshots",
+  "presentation": "dart-mobile",
+  "package": "module_crm_templates_and_snapshots_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/templates-and-snapshots.md",
+  "presentationPlan": "projects/crm/features/templates-and-snapshots.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
